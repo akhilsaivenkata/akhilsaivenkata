@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Akhil
 
-##About Me
+About Me
 I'm a Software Engineer(EX-GE Healthcare) with a passion for cloud-native technologies, data engineering, and machine learning. Currently, I'm a grad student at Wilfrid Laurier University and a Research Assistant working on Duplicate Bug Report Detection. I’m deeply committed to contributing to open-source projects and helping the tech community grow.
 Here are some ideas to get you started:
 
