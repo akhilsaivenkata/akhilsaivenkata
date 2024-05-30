@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## GitHub Stats
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilsaivenkata&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilsaivenkata&layout=compact&theme=radical)
