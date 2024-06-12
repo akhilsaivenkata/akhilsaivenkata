@@ -4,7 +4,7 @@ About Me
 I'm a Software Engineer(EX-GE Healthcare) with a passion for cloud-native technologies, data engineering, and machine learning. Currently, I'm a grad student at Wilfrid Laurier University and a Research Assistant working on Duplicate Bug Report Detection. I’m deeply committed to contributing to open-source projects and helping the tech community grow.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on contributing to the [Kubeflow](https://github.com/kubeflow) project of CNCF.
+- 🔭 I’m currently contributing to the [Kubeflow](https://github.com/kubeflow) project of CNCF.
 - 🌱 I’m currently learning more about Kubernetes, Generative AI, Machine Learning, and Large Language Models (LLMs).
 - 👯 I’m looking to collaborate on open-source projects related to Kubernetes, Go, and AI/ML.
 - 🤔 I’m looking for help with ...
