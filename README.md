@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently contributing to the [Kubeflow](https://github.com/kubeflow) project of CNCF.
 - 🌱 I’m currently learning more about Kubernetes, Generative AI, Machine Learning, and Large Language Models (LLMs).
 - 👯 I’m looking to collaborate on open-source projects related to Kubernetes, Go, and AI/ML.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Kubernetes, Golang, Machine Learning, AWS and contributing to open-source projects.
 - 📫 How to reach me: 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-a-62495512b/)
