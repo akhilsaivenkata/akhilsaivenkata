@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Akhil
 
 About Me
-I'm a Software Engineer(EX-GE Healthcare) with a versatile background in cloud-native development, full-stack engineering, and DevOps. With 4 years of experience, I’m passionate about creating robust, scalable, and secure applications. Currently, I'm a grad student at Wilfrid Laurier University and a Research Assistant working on Duplicate Bug Report Detection. I’m deeply committed to contributing to open-source projects and helping the tech community grow.
+I'm a Software Engineer(EX-GE Healthcare) with a versatile background in platform engineering, cloud-native development, backend development, and DevOps. With 4 years of experience, I’m passionate about creating robust, scalable, and secure applications. Currently, I'm a grad student at Wilfrid Laurier University and a Research Assistant working on Duplicate Bug Report Detection. I’m deeply committed to contributing to open-source projects and helping the tech community grow.
 
 - 🔭 I’m currently contributing to the [Kubeflow](https://github.com/kubeflow) project of CNCF.
 - 🌱 I’m currently learning more about Kubernetes, Generative AI, Machine Learning, and Large Language Models (LLMs).
